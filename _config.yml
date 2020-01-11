@@ -1,14 +1,14 @@
 baseurl:
-title: Tufte-Jekyll
+title: Chad's Occasional Blog
 subtitle: Content-centric blogging
-author: clay harmon
+author: chad r. frost
 simple_search: http://google.com/search
-description: A Jekyll theme for content-rich sites
+description: Sometimes things pop into my head. This is where I put them.
 name: tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:short_year/:title
-timezone: America/New_York
+timezone: America/Los_Angeles
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
 post:
@@ -17,7 +17,7 @@ post:
 page:
   template: _page.txt
   extension: md
-editor: gvim
+editor: vim
 git:
   branch: master
 transfer:

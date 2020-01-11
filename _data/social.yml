@@ -1,10 +1,10 @@
-- link: //www.twitter.com/twitter_handle 
+- link: //www.twitter.com/bikeboy
   icon: icon-twitter
-- link: //plus.google.com/+googlePlusName 
-  icon: icon-googleplus
-- link: //github.com/GithubHandle 
+- link: //github.com/chadfrost 
   icon: icon-github
-- link: //www.flickr.com/photos/FlickrUserID 
-  icon: icon-flickr
+- link: //instagram.com/bikeboychad
+  icon: icon-instagram
+- link: //www.linkedin.com/in/chad-frost-039a12/
+  icon: icon-linkedin
 - link: /feed 
   icon: icon-feed
