@@ -1,3 +1,7 @@
+# Chad's Occasional Blog
+
+Note two submodules, blog-posts and blog-images. Ref: https://github.com/thebearjew/blog-posts
+
 # tufte-jekyll theme
 
 The *Tufte-Jekyll* blog theme is based on the github repository by Edward Tufte

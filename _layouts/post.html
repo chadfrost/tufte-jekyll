@@ -6,3 +6,6 @@ layout: default
 
 {{ content }}
 
+<p>
+<a rel="prev" href="{{ paginator.previous_page_path | replace: 'index.html', '/' | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Newer</a>  <a rel="next" href="{{ paginator.next_page_path | replace: 'index.html', '/' | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+</p>

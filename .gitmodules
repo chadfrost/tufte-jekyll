@@ -1,0 +1,9 @@
+[submodule "blog-drafts"]
+  path = _drafts
+  url = https://github.com/chadfrost/blog-drafts
+[submodule "blog-posts"]
+	path = _posts
+	url = https://github.com/chadfrost/blog-posts
+[submodule "assets/blog-images"]
+	path = assets/img
+	url = https://github.com/chadfrost/blog-images
